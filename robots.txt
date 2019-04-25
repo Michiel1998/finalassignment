@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /setup/
+Disallow: /cgi-bin
+Disallow: /images/
+Disallow: /photos/
+Disallow: /dealers/
+Sitemap: http://www.haarlem-sport.nl/sitemap.xml
